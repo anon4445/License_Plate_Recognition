@@ -11,16 +11,16 @@ This Streamlit application is designed to recognize and extract Bengali license 
 
 ## Installation
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine
 
 
-2. Change the directory to the project folder:
+2. Change the directory to the project folder
 
 
-3. Install the required Python libraries using pip:
+3. Install the required Python libraries using pip
 
 
-4. Run the Streamlit app:
+4. Run the Streamlit app
 
 
 ## Usage
